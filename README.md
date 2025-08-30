@@ -4,18 +4,18 @@
 
 ##  <font color = #9ACD32> Содержание </font>
 
-[1. Введение](https://github.com/DmitVasilev/Project_CV-1/blob/master/README.md#-1-%D0%B2%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5-)   
-[2. Описание задачи](https://github.com/DmitVasilev/Project_CV-1/blob/master/README.md#2-%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5-%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B8)   
-[3. Описание данных](https://github.com/DmitVasilev/Project_CV-1/blob/master/README.md#3-%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85)   
-[4. Результат](https://github.com/DmitVasilev/Project_CV-1/blob/master/README.md#4-%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82)                  
-[5. Выводы](https://github.com/DmitVasilev/Project_CV-1/blob/master/README.md#5-%D0%B2%D1%8B%D0%B2%D0%BE%D0%B4%D1%8B)                                        
-[6. Контакты](https://github.com/DmitVasilev/Project_CV-1/blob/master/README.md#6-%D0%BA%D0%BE%D0%BD%D1%82%D0%B0%D0%BA%D1%82%D1%8B)
+[1. Введение](https://github.com/DmitVasilev/Project_CV-2?tab=readme-ov-file#-1-%D0%B2%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5-)   
+[2. Описание задачи](https://github.com/DmitVasilev/Project_CV-2?tab=readme-ov-file#2-%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5-%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B8)   
+[3. Описание данных](https://github.com/DmitVasilev/Project_CV-2?tab=readme-ov-file#3-%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85)   
+[4. Результат](https://github.com/DmitVasilev/Project_CV-2?tab=readme-ov-file#4-%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82)                  
+[5. Выводы](https://github.com/DmitVasilev/Project_CV-2?tab=readme-ov-file#5-%D0%B2%D1%8B%D0%B2%D0%BE%D0%B4%D1%8B)                                        
+[6. Контакты](https://github.com/DmitVasilev/Project_CV-2?tab=readme-ov-file#6-%D0%BA%D0%BE%D0%BD%D1%82%D0%B0%D0%BA%D1%82%D1%8B)
 
 ### <font color = #9ACD32> 1. Введение </font>
 
 В данном проекте решается задача построения модели  детектирования медицинских масок на лицах людей.
 
-:arrow_up:[к содержанию](https://github.com/DmitVasilev/Project_CV-1/blob/master/README.md#-%D1%81%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5-) 
+:arrow_up:[к содержанию](https://github.com/DmitVasilev/Project_CV-2?tab=readme-ov-file#-%D1%81%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5-) 
 
 
 ###  <font color = #9ACD32>2. Описание задачи</font>
@@ -45,20 +45,20 @@
    * анализ работы алгоритмов с помощью специфичных для задач распознавания метрик;
    * визуализация данных и полученных предсказаний модели.
 
-:arrow_up:[к содержанию](https://github.com/DmitVasilev/Project_CV-1/blob/master/README.md#-%D1%81%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5-)  
+:arrow_up:[к содержанию](https://github.com/DmitVasilev/Project_CV-2?tab=readme-ov-file#-%D1%81%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5-) 
 
 ###  <font color = #9ACD32>3. Описание данных</font>
 
 В проекте используется набор данных, находящийся на платформе [Kaggle](https://www.kaggle.com/andrewmvd/face-mask-detection) и содержащий 853 изображения.
               
-:arrow_up:[к содержанию](https://github.com/DmitVasilev/Project_CV-1/blob/master/README.md#-%D1%81%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5-)                 
+:arrow_up:[к содержанию](https://github.com/DmitVasilev/Project_CV-2?tab=readme-ov-file#-%D1%81%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5-)                  
 
 ###  <font color = #9ACD32>4. Результат</font>
 
- + Ноутбук с решением поставленной задачи: [Project_CV_1.ipynb](https://github.com/DmitVasilev/Project_CV-1/blob/eedad878b892acdf66fb62b05fb2ad03d05d9818/Project_CV_1.ipynb);            
- + Работа выполнена с использованием **Python версии 3.10.18**. Необходимые для воспроизводимости кода зависисмости приведены в файле requirements.txt: [requirements.txt](https://github.com/DmitVasilev/Project_CV-1/blob/025fcb783096e221d796b537bc8f08d99920fb71/requirements.txt). 
+ + Ноутбук с решением поставленной задачи: [Project_2_Object_Detection.ipynb](https://github.com/DmitVasilev/Project_CV-2/blob/c96fc7c52badcceece6017edf2ca1f40a040ebf3/Project_2_Object_Detection.ipynb);            
+ + Работа выполнена с использованием **Python версии 3.10.18**. Необходимые для воспроизводимости кода зависисмости приведены в файле requirements.txt: [requirements.txt](https://github.com/DmitVasilev/Project_CV-2/blob/c96fc7c52badcceece6017edf2ca1f40a040ebf3/requirements.txt). 
                         
-:arrow_up:[к содержанию](https://github.com/DmitVasilev/Project_CV-1/blob/master/README.md#-%D1%81%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5-)             
+:arrow_up:[к содержанию](https://github.com/DmitVasilev/Project_CV-2?tab=readme-ov-file#-%D1%81%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5-)           
 
 
 ###  <font color = #9ACD32>5. Выводы</font>
@@ -74,10 +74,10 @@
 В целом обе модели показали хороший результат по метрике mAP_50 достигнув значения 89%. По метрике mAP_50_95 YOLOv11m обгоняет fasterrrcnn_resnet50_fpn с результатом 65% против 56%. По среднему значению IoU первенство также за YOLOv11m (0.77 против 0.59). Что касается скорости обучения одноуровневый детектор YOLOv11m ожидаемо быстрее двухуровневого fasterrrcnn_resnet50_fpn_v2 в среднем на порядок. Среднее время обучения на одной эпохе 16 секунд против 157. При визуализации результатов предсказаний можно заметить что модель fasterrrcnn_resnet50_fpn_v2 делает больше ложных прогнозов. Это же подтверждается пониженным средним значением метрики IoU на валидационной выборке. В данной ситуации может помочь установка оптимального порога уверенности, определнного по графику Precision-Recall.
 
 
-:arrow_up:[к содержанию](https://github.com/DmitVasilev/Project_CV-1/blob/master/README.md#-%D1%81%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5-) 
+:arrow_up:[к содержанию](https://github.com/DmitVasilev/Project_CV-2?tab=readme-ov-file#-%D1%81%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5-) 
 
 
 ###  <font color = #9ACD32>6. Контакты</font>
 Для обратной связи можно воспользоваться почтой: vasilevdma@mail.ru
 
-:arrow_up:[к содержанию](https://github.com/DmitVasilev/Project_CV-1/blob/master/README.md#-%D1%81%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5-) 
+:arrow_up:[к содержанию](https://github.com/DmitVasilev/Project_CV-2?tab=readme-ov-file#-%D1%81%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5-) 
