@@ -55,7 +55,7 @@
 
 ###  <font color = #9ACD32>4. Результат</font>
 
- + Ноутбук с решением поставленной задачи: [Project_2_Object_Detection.ipynb](https://github.com/DmitVasilev/Project_CV-2/blob/c96fc7c52badcceece6017edf2ca1f40a040ebf3/Project_2_Object_Detection.ipynb);            
+ + Ноутбук с решением поставленной задачи: [Project_2_Object_Detection.ipynb](https://github.com/DmitVasilev/Project_CV-2/blob/50557fe1ebaf609d91b837f577a01ffb7f4a21b3/Project_2_Object_Detection.ipynb);            
  + Работа выполнена с использованием **Python версии 3.10.18**. Необходимые для воспроизводимости кода зависисмости приведены в файле requirements.txt: [requirements.txt](https://github.com/DmitVasilev/Project_CV-2/blob/c96fc7c52badcceece6017edf2ca1f40a040ebf3/requirements.txt). 
                         
 :arrow_up:[к содержанию](https://github.com/DmitVasilev/Project_CV-2?tab=readme-ov-file#-%D1%81%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5-)           
